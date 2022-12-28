@@ -399,7 +399,7 @@
                     <span class="footer-powered-by">
                         Powered By
 
-                        <a href="https://easyappointments.org" target="_blank">Easy!Appointments</a>
+                        <a href="https://karich.design" target="_blank">Karich.Design</a>
                     </span>
 
                     <span class="footer-options">

@@ -48,7 +48,7 @@
     <div class="mt-4">
         <small>
             Powered by
-            <a href="https://easyappointments.org">Easy!Appointments</a>
+            <a href="https://karich.design" style="text-decoration: none;">Karich.Design</a>
         </small>
     </div>
 </div>
